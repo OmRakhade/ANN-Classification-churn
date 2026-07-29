@@ -1,8 +1,8 @@
-python==3.11
+streamlit
 tensorflow==2.19.1
 pandas 
 numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
+
